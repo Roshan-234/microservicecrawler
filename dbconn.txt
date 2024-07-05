@@ -1,0 +1,15 @@
+# MySQL database credentials
+    # mysql_config = {
+    #     "host": "188.126.67.202",
+    #     "user": "laravel_db_user",
+    #     "password": "YTTE@ssshw@11",
+    #     "database": "pmstulips",
+    #     "connection_timeout": 3600  # Increase the connection timeout (in seconds)
+    # }
+mysql_config ={
+        'host': '46.16.236.25',
+        'database': 'quizwebs_scrapuUI',
+        'user': 'quizwebs_scrapyui',
+        'password': 'e6AAj;I.gK3R',
+        "connection_timeout": 3600  # Increase the connection timeout (in seconds)
+    }
